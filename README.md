@@ -9,3 +9,4 @@
 * [E. Скорая помощь](https://github.com/alexander-tereshin/yandex-algorithm-trainings_1.0/blob/main/hw1e.py)
 * [F. Расстановка ноутбуков](https://github.com/alexander-tereshin/yandex-algorithm-trainings_1.0/blob/main/hw1f.py)
 * [G. Детали](https://github.com/alexander-tereshin/yandex-algorithm-trainings_1.0/blob/main/hw1g.py)
+* [H. Метро](https://github.com/alexander-tereshin/yandex-algorithm-trainings_1.0/blob/main/hw1h.py)
