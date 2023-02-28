@@ -12,3 +12,6 @@
 * [H. Метро](https://github.com/alexander-tereshin/yandex-algorithm-trainings_1.0/blob/main/hw1h.py)
 * I. Узник замка Иф **To be performed...**
 * J. Система линейных уравнений - 2 **To be performed...**
+
+### Занятие 2
+**To be performed...**
